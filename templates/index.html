@@ -80,8 +80,8 @@
                 const predictions = response.predictions;
                 $("#predictions").text("Predictions: " + JSON.stringify(predictions));
                 Plotly.newPlot("training_error_chart", training_error_chart_data);
-               
                 Plotly.newPlot("output_chart", output_chart_data);
+              
             }, "json");
         });
     </script>

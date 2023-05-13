@@ -41,9 +41,9 @@ To help you get started, here are some example input and target data:
 Input data:
 
 ```csv
-0.1, 0.2, 0.3
-0.4, 0.5, 0.6
-0.7, 0.8, 0.9
+0.1, 0.1, 0.3
+0.1, 0.5, 0.2
+0.3, 0.8, 0.9
 ```
 
 Target data;
@@ -51,9 +51,11 @@ Target data;
 ```csv
 0.4, 0.8
 0.6, 0.4
-0.8, 0.2
+0.1, 0.2
 ```
 
+## Output
+![img1](imgs/img1.png)
 
 Feel free to modify the input and target data to experiment with different training scenarios.
 
