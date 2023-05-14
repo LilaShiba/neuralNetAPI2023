@@ -1,3 +1,2 @@
 # _config.yml
-theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.24.1
