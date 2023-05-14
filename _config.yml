@@ -1,4 +1,3 @@
-# _config.yml
 remote_theme: cyberjekyll/cyberpunk
 plugins:
   - jekyll-remote-theme
