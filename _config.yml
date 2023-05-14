@@ -1,3 +1,2 @@
 # _config.yml
-title: My Cyberpunk Site
-remote_theme: panr/hugo-theme-terminal
+remote_theme: mmistakes/minimal-mistakes
